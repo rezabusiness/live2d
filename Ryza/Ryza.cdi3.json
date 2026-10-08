@@ -1,0 +1,528 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX4",
+			"GroupId": "",
+			"Name": "Shadow Off"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup7",
+			"Name": "Hair"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup7",
+			"Name": "Hair"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup7",
+			"Name": "Ears"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup7",
+			"Name": "Glasses"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "Param_Angle_Rotation21",
+			"GroupId": "ParamGroup11",
+			"Name": "[0]L ear"
+		},
+		{
+			"Id": "Param_Angle_Rotation22",
+			"GroupId": "ParamGroup11",
+			"Name": "[1]L ear"
+		},
+		{
+			"Id": "Param_Angle_Rotation23",
+			"GroupId": "ParamGroup11",
+			"Name": "[2]L ear"
+		},
+		{
+			"Id": "Param_Angle_Rotation24",
+			"GroupId": "ParamGroup11",
+			"Name": "[3]L ear"
+		},
+		{
+			"Id": "Param_Angle_Rotation25",
+			"GroupId": "ParamGroup12",
+			"Name": "[0]R ear"
+		},
+		{
+			"Id": "Param_Angle_Rotation26",
+			"GroupId": "ParamGroup12",
+			"Name": "[1]R ear"
+		},
+		{
+			"Id": "Param_Angle_Rotation27",
+			"GroupId": "ParamGroup12",
+			"Name": "[2]R ear"
+		},
+		{
+			"Id": "Param_Angle_Rotation28",
+			"GroupId": "ParamGroup12",
+			"Name": "[3]R ear"
+		},
+		{
+			"Id": "Param_Angle_Rotation17",
+			"GroupId": "ParamGroup10",
+			"Name": "[0]R earing"
+		},
+		{
+			"Id": "Param_Angle_Rotation18",
+			"GroupId": "ParamGroup10",
+			"Name": "[1]R earing"
+		},
+		{
+			"Id": "Param_Angle_Rotation19",
+			"GroupId": "ParamGroup10",
+			"Name": "[2]R earing"
+		},
+		{
+			"Id": "Param_Angle_Rotation20",
+			"GroupId": "ParamGroup10",
+			"Name": "[3]R earing"
+		},
+		{
+			"Id": "Param_Angle_Rotation11",
+			"GroupId": "ParamGroup9",
+			"Name": "[0]Jambul"
+		},
+		{
+			"Id": "Param_Angle_Rotation12",
+			"GroupId": "ParamGroup9",
+			"Name": "[1]Jambul"
+		},
+		{
+			"Id": "Param_Angle_Rotation13",
+			"GroupId": "ParamGroup9",
+			"Name": "[2]Jambul"
+		},
+		{
+			"Id": "Param_Angle_Rotation14",
+			"GroupId": "ParamGroup9",
+			"Name": "[3]Jambul"
+		},
+		{
+			"Id": "Param_Angle_Rotation15",
+			"GroupId": "ParamGroup9",
+			"Name": "[4]Jambul"
+		},
+		{
+			"Id": "Param_Angle_Rotation16",
+			"GroupId": "ParamGroup9",
+			"Name": "[5]Jambul"
+		},
+		{
+			"Id": "Param_Angle_Rotation7",
+			"GroupId": "ParamGroup8",
+			"Name": "[0]Ekor Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation8",
+			"GroupId": "ParamGroup8",
+			"Name": "[1]Ekor Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation9",
+			"GroupId": "ParamGroup8",
+			"Name": "[2]Ekor Rotation"
+		},
+		{
+			"Id": "Param_Angle_Rotation10",
+			"GroupId": "ParamGroup8",
+			"Name": "[3]Ekor Rotation"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup2",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup2",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup3",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "MouthFunnel",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Funnel"
+		},
+		{
+			"Id": "MouthPressLipOpen",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Press Lip Open"
+		},
+		{
+			"Id": "MouthShrug",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Shrug"
+		},
+		{
+			"Id": "MouthPucker",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth Pucker"
+		},
+		{
+			"Id": "MouthX",
+			"GroupId": "ParamGroup4",
+			"Name": "Mouth X"
+		},
+		{
+			"Id": "JawOpen",
+			"GroupId": "ParamGroup4",
+			"Name": "Jaw Open"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup5",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup6",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup6",
+			"Name": "Hair Move Side"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup6",
+			"Name": "Hair Move Back"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Toggle"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Head"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "L ear"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "R ear"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "R earing"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "Jambul"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "Ekor Rotation"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Eyes"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Browl"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Mouth"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Body"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Physics"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part5",
+			"Name": "head angle ryza.psd"
+		},
+		{
+			"Id": "kuping",
+			"Name": "kuping"
+		},
+		{
+			"Id": "Part3",
+			"Name": "rambut kuning"
+		},
+		{
+			"Id": "rambut",
+			"Name": "rambut"
+		},
+		{
+			"Id": "kelapa",
+			"Name": "kelapa"
+		},
+		{
+			"Id": "ekor",
+			"Name": "ekor"
+		},
+		{
+			"Id": "badan",
+			"Name": "badan"
+		},
+		{
+			"Id": "pants",
+			"Name": "pants"
+		},
+		{
+			"Id": "Part22",
+			"Name": "L SEPATU"
+		},
+		{
+			"Id": "Part23",
+			"Name": "R SEPATU"
+		},
+		{
+			"Id": "Part",
+			"Name": "kuping kiri"
+		},
+		{
+			"Id": "Part2",
+			"Name": "kuping kanan"
+		},
+		{
+			"Id": "ArtMesh3_Skinning",
+			"Name": "rambut kuning(Skinning)"
+		},
+		{
+			"Id": "ArtMesh4_Skinning",
+			"Name": "shading rambut kuning(Skinning)"
+		},
+		{
+			"Id": "face",
+			"Name": "face"
+		},
+		{
+			"Id": "head",
+			"Name": "head"
+		},
+		{
+			"Id": "ears",
+			"Name": "ears"
+		},
+		{
+			"Id": "ikat_Skinning",
+			"Name": "ikat(Skinning)"
+		},
+		{
+			"Id": "ArtMesh48_Skinning",
+			"Name": "ekor 1(Skinning)"
+		},
+		{
+			"Id": "ArtMesh49_Skinning",
+			"Name": "ekor 2(Skinning)"
+		},
+		{
+			"Id": "ekor3_Skinning",
+			"Name": "ekor3(Skinning)"
+		},
+		{
+			"Id": "ArtMesh50_Skinning",
+			"Name": "ekor 4(Skinning)"
+		},
+		{
+			"Id": "badan2",
+			"Name": "badan"
+		},
+		{
+			"Id": "kerah",
+			"Name": "kerah"
+		},
+		{
+			"Id": "Part17",
+			"Name": "badan belakang"
+		},
+		{
+			"Id": "Part18",
+			"Name": "tangan kiri"
+		},
+		{
+			"Id": "Part20",
+			"Name": "tangan kanan"
+		},
+		{
+			"Id": "ArtMesh2_Skinning",
+			"Name": "kuping kiri(Skinning)"
+		},
+		{
+			"Id": "ArtMesh_Skinning",
+			"Name": "kuping kiri(Skinning)"
+		},
+		{
+			"Id": "Part9",
+			"Name": "L eyes"
+		},
+		{
+			"Id": "Part11",
+			"Name": "R eye"
+		},
+		{
+			"Id": "nose",
+			"Name": "nose"
+		},
+		{
+			"Id": "Part13",
+			"Name": "MOUTH INSIDE"
+		},
+		{
+			"Id": "Anting",
+			"Name": "Anting"
+		},
+		{
+			"Id": "Part19",
+			"Name": "tangan kiri"
+		},
+		{
+			"Id": "Part21",
+			"Name": "tangan kanan"
+		},
+		{
+			"Id": "Part12",
+			"Name": "R all eye"
+		},
+		{
+			"Id": "Layer61_Skinning",
+			"Name": "Layer61(Skinning)"
+		},
+		{
+			"Id": "Layer60_Skinning",
+			"Name": "Layer60(Skinning)"
+		},
+		{
+			"Id": "Layer62_Skinning",
+			"Name": "Earing Shadow(Skinning)"
+		},
+		{
+			"Id": "Layer63_Skinning",
+			"Name": "Earing Shadow(Skinning)"
+		},
+		{
+			"Id": "Part4",
+			"Name": "R iris"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		]
+	]
+}

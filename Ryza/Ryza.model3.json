@@ -1,0 +1,28 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Ryza.moc3",
+		"Textures": [
+			"Ryza.4096/texture_00.png",
+			"Ryza.4096/texture_01.png",
+			"Ryza.4096/texture_02.png"
+		],
+		"Physics": "Ryza.physics3.json",
+		"DisplayInfo": "Ryza.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
